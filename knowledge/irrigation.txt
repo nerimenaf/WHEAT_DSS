@@ -1,0 +1,73 @@
+Source: FAO – Wheat Water Management
+https://www.fao.org/land-water/databases-and-software/crop-information/wheat/en/
+
+[irrigation_wheat_fao.txt::p1]
+Seasonal water requirement (ETm) for wheat ranges from 450 to 650 mm depending on climate and length of growing period.
+
+[irrigation_wheat_fao.txt::p2]
+Crop coefficient (Kc) values for wheat are:
+- Initial stage (15–20 days): 0.3–0.4
+- Development stage (25–30 days): 0.7–0.8
+- Mid-season stage (50–65 days): 1.05–1.2
+- Late-season stage (30–40 days): 0.65–0.7
+- At harvest: 0.2–0.25
+
+[irrigation_wheat_fao.txt::p3]
+Under non-stress conditions, wheat can use 50–60% of available soil water before irrigation is required. Moderate stress occurs at 70–80% depletion and severe stress above 80% depletion.
+
+[irrigation_wheat_fao.txt::p4]
+For optimal root development, the entire root zone should be filled to field capacity prior to or soon after sowing.
+
+[irrigation_wheat_fao.txt::p5]
+Critical periods for water deficit in wheat are:
+1) At completion of tillering and beginning of stem elongation.
+2) During heading and flowering.
+3) During early yield formation (grain filling).
+
+[irrigation_wheat_fao.txt::p6]
+Water deficit during flowering reduces seed number per head and yield. Yield losses during flowering cannot be recovered by irrigation applied later.
+
+[irrigation_wheat_fao.txt::p7]
+Water deficit during early yield formation reduces grain weight and causes shriveled grains, especially under hot and dry wind conditions.
+
+[irrigation_wheat_fao.txt::p8]
+Water deficit during ripening has only a slight effect on yield and irrigation is often discontinued during this stage to allow drying-off.
+
+[irrigation_wheat_fao.txt::p9]
+Normally 50–60% of total water uptake occurs from the first 0.3 m of soil depth. Nearly all water uptake occurs within the top 1.0–1.5 m of soil.
+
+[irrigation_wheat_fao.txt::p10]
+Under maximum evapotranspiration of 5–6 mm/day, wheat water uptake is not significantly affected until soil water depletion exceeds 50% of total available water (p ≈ 0.5).
+
+[irrigation_wheat_fao.txt::p11]
+Where irrigation water is limited, irrigation should be scheduled to avoid water deficits during flowering and around 50–70 days after sowing for spring wheat.
+
+[irrigation_wheat_fao.txt::p12]
+Over‑irrigation during vegetative growth may cause excessive vegetative growth and lodging. Heavy irrigation during late yield formation may also increase lodging risk.
+
+[irrigation_wheat_fao.txt::p13]
+If sufficient soil moisture is stored in the root zone before ripening, additional irrigation during late yield formation has little effect on yield.
+
+[irrigation_wheat_fao.txt::p14]
+Israel (Winter Wheat) recommendation:
+- Irrigate when soil water depletion in the upper 1 m reaches 100–120 mm.
+- If at heading depletion is less than 30 mm, irrigation can be delayed until early yield formation.
+- If at heading depletion exceeds 50 mm, irrigation should be applied immediately.
+
+[irrigation_wheat_fao.txt::p15]
+USSR (Winter Wheat) recommendation:
+Maintain soil water depletion in the first 1 m soil depth below 70% of total available water.
+
+[irrigation_wheat_fao.txt::p16]
+Northern India (Spring Wheat) recommendation:
+Irrigation options include:
+- One irrigation during early vegetative stage (1a).
+- Two irrigations: early vegetative (1a) and flowering (2).
+- Three irrigations: early vegetative (1a), flowering (2), and early yield formation (early 3).
+- Four irrigations: early vegetative (1a), late vegetative (1c), flowering (2), and early yield formation (early 3).
+
+[irrigation_wheat_fao.txt::p17]
+Heavy autumn irrigation to fill the full root zone before winter improves winter wheat establishment in regions with limited water supply.
+
+[irrigation_wheat_fao.txt::p18]
+Yield response factor (Ky) indicates wheat is highly sensitive to water deficit during mid-season (flowering and grain formation).
